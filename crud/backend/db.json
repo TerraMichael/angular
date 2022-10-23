@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 1200.89
-    },
-    {
       "id": 3,
       "name": "Samsung S20+",
       "price": 5000.89
@@ -36,14 +26,14 @@
       "id": 7
     },
     {
-      "name": "Veio de novo",
-      "price": "213.22",
-      "id": 8
+      "name": "Microfone hyper-x",
+      "price": "600,00",
+      "id": 10
     },
     {
-      "name": "Monitorzão bolado",
-      "price": "999.99",
-      "id": 9
+      "name": "Produto novo teste",
+      "price": "200.00",
+      "id": 11
     }
   ]
 }
